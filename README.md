@@ -39,7 +39,7 @@ A Flask-based microservice that scrapes **email addresses** and **phone numbers*
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/email-phone-scraper-api.git
+git clone https://github.com/saileshwankar/Email-Extractor-WebScraper.git
 cd email-phone-scraper-api
 
 python -m venv venv
